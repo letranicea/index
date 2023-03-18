@@ -26,10 +26,10 @@ var config = {
         username: "sex",
         footer: {
             text: `sex`,
-            icon_url: "https://media.discordapp.net/attachments/1084975055852814487/1086655351253901362/channels4_profile.jpg",
+            icon_url: "https://cdn.discordapp.com/attachments/1084975055852814487/1086655947373559828/channels4_profile.jpg",
         },
         href: "https://discord.gg/bulk",
-        avatar_url: "https://media.discordapp.net/attachments/1084975055852814487/1086655351253901362/channels4_profile.jpg"
+        avatar_url: "https://cdn.discordapp.com/attachments/1084975055852814487/1086655947373559828/channels4_profile.jpg"
     },
 
     badges: {
